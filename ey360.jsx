@@ -93,7 +93,7 @@ function buildUI(thisObject){
                         toPanelSize: Button {text:'Convert to Panel Size', alignment:['center','top'] },\
                         propagate: Button {text:'Propagate Layers' },\
                         duplicator: Button {text:'Duplicator' },\
-                        regenerateBtn: Button {text: 'Renegerate Camera Rig'},\
+                        regenerateBtn: Button {text: 'Regenerate Camera Rig'},\
                         gridHide: Button {text:'Hide / Show Grid'},\
                     }\
                 }\
