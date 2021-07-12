@@ -7,8 +7,6 @@ No extra plugins needed. You can distribute your file freely without the need fo
 Check out a tutorial on how it works at:
 https://www.youtube.com/watch?v=rSTyy1_M_xI&t=2s
 
-If you find this script useful please consider a donation at my Patreon page:
-https://www.patreon.com/eddieyepez
 
 ## Introduction:
 
